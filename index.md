@@ -4,6 +4,7 @@
 <h1>PassPY</h1>
 <p> <br> PassPY is an open source; python based password manager, that is a alternative to things like lastpass. its only client-side for now, but we're also in very early development! join the beta by clicking the link below, or download a stable release! <br>
   <br> <a href="https://drive.google.com/uc?export=download&id=1e9u7NeUMihqkarCCTMK0i_VEYxmyhdh3" title="download passPY beta">download the newest beta version </a> <br> <br> <a href="https://drive.google.com/uc?export=download&id=1VTCxS9_FqIjcjLTo20Teb_tRKaOokavr" title="download passPY release">download the newest release version </a> <br>
+  <br> <a href="  https://drive.google.com/uc?export=download&id=1u29XJGGL_OxbtyDoDpDTTf92OmKf-IZA" title="[NEW] download passPY release for mac!">download the newest release version for mac! </a> <br>
   <br> <a href="https://github.com/KayakerS6/PassPY" title="github page">go to the github page to look at the development progress! </a> <br>
   <br> <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="business" value="V6KGR74NJHKWN" />
@@ -14,3 +15,6 @@
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form> <br>
   </p>
+
+  
+  https://drive.google.com/uc?export=download&id=1u29XJGGL_OxbtyDoDpDTTf92OmKf-IZA
