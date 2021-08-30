@@ -6,6 +6,7 @@
   <br> <a href="https://drive.google.com/uc?export=download&id=1e9u7NeUMihqkarCCTMK0i_VEYxmyhdh3" title="download passPY beta">download the newest beta version </a> <br> <br> <a href="https://drive.google.com/uc?export=download&id=1VTCxS9_FqIjcjLTo20Teb_tRKaOokavr" title="download passPY release">download the newest release version </a> <br>
   <br> <a href="  https://drive.google.com/uc?export=download&id=1u29XJGGL_OxbtyDoDpDTTf92OmKf-IZA" title="[NEW] download passPY release for mac!">download the newest release version for mac! </a> <br>
   <br> <a href="https://github.com/PassPY-co/PassPY-main" title="github page">go to the github page to look at the development progress! </a> <br>
+  <br> <a href="https://github.com/PassPY-co/PassPY-main/wiki" title="github wiki">go to the wiki! </a> <br>
   <br> <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="business" value="V6KGR74NJHKWN" />
 <input type="hidden" name="no_recurring" value="0" />
